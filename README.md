@@ -5,7 +5,7 @@
 - 😄 Tratando de estudiar, trabajar, tener un emprendimiento y no morir en el intento
 - ⚡ Dato curioso: Atenas mi 🐕‍🦺 me obliga a estudiar🤩
 
-    ✨✨✨
+    ✨cumpliendo mi sueño de estudiar en la UTN✨
 
 Hi, my name is Mara Di Stefano 👋
 - 🚀 I am currently taking Python courses
@@ -13,4 +13,4 @@ Hi, my name is Mara Di Stefano 👋
 - 😄 Trying to study, work, have a business and not die trying
 - ⚡ Fun fact: Atenas my 🐕‍🦺 forces me to study🤩
 
- ✨✨✨
+ ✨Fulfilling my dream of studying at UTN✨
