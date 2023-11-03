@@ -1,18 +1,16 @@
-### Hi, my name is Mara Di Stefano 👋
+### Hola, soy Mara Di Stéfano
 
+- 🚀 Actualmente estoy haciendo cursos de Python
+- 📫 www.linkedin.com/in/maradistefano
+- 😄 Tratando de estudiar, trabajar, tener un emprendimiento y no morir en el intento
+- ⚡ Dato curioso: Atenas mi 🐕‍🦺 me obliga a estudiar🤩
 
+    ✨✨✨
 
-**Bienvenid@s a mi repositorio de GitHub.**
-is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Mara Di Stefano 👋
+- 🚀 I am currently taking Python courses
+- 📫 www.linkedin.com/in/maradistefano
+- 😄 Trying to study, work, have a business and not die trying
+- ⚡ Fun fact: Atenas my 🐕‍🦺 forces me to study🤩
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+ ✨✨✨
