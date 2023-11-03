@@ -5,7 +5,7 @@
 - 😄 Tratando de estudiar, trabajar, tener un emprendimiento y no morir en el intento
 - ⚡ Dato curioso: Atenas mi 🐕‍🦺 me obliga a estudiar🤩
 
-    ✨cumpliendo mi sueño de estudiar en la UTN✨
+    ✨Cumpliendo mi sueño de estudiar en la UTN✨
 
 Hi, my name is Mara Di Stefano 👋
 - 🚀 I am currently taking Python courses
